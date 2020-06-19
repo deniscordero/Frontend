@@ -1,6 +1,15 @@
+- [Frontend](#frontend)
+  - [1. Introducción al curso](#1-introducción-al-curso)
+    - [Algúnos conceptos:](#algúnos-conceptos)
+    - [¿Qué son y para qué nos sirven HTML y CSS?](#qué-son-y-para-qué-nos-sirven-html-y-css)
+    - [DOM, CSSOM, Render Tree y el proceso de renderizado de la Web](#dom-cssom-render-tree-y-el-proceso-de-renderizado-de-la-web)
+    - [5 tips para aprender CSS](#5-tips-para-aprender-css)
+
 # Frontend
 
-## Algúnos conceptos:
+## 1. Introducción al curso
+
+### Algúnos conceptos:
 
 `Interconnected + Network -> Internet`
 
@@ -28,7 +37,7 @@ extensiones
 archivo.html --> Estructura
 estilos.css --> Estilos
 
-## ¿Qué son y para qué nos sirven HTML y CSS?
+### ¿Qué son y para qué nos sirven HTML y CSS?
 
 >`HTML`: Es un **lenguaje** de marcado usado para decirle a tu navegador cómo estructurar las páginas web que visitas. No es un lenguaje de programación.
 >>[HTML reference](https://htmlreference.io/)
@@ -36,7 +45,7 @@ estilos.css --> Estilos
 >`CSS`: Es un lenguaje que nos permite crear páginas web con un diseño agradable para los usuarios. Tampoco es un lenguaje de programación.
 >>[CSS Reference](https://cssreference.io/)
 
-## DOM, CSSOM, Render Tree y el proceso de renderizado de la Web
+### DOM, CSSOM, Render Tree y el proceso de renderizado de la Web
 
 `DOM`: Document Object Model. Es una transformación del código HTML escrito por nosotros a objetos entendibles para el navegador.
 
@@ -53,6 +62,6 @@ estilos.css --> Estilos
 
 ![Notas](https://static.platzi.com/media/user_upload/80-1e1adc16-ba31-4627-9d68-7ad1125285ab.jpg)
 
-## 5 tips para aprender CSS
+### 5 tips para aprender CSS
 
 ![5 Tips](https://static.platzi.com/media/user_upload/Infografia-Frontend-Javascript-986d1fea-9f09-4b8e-be0d-6d9f69ac75b8.jpg)
