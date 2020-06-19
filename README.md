@@ -52,3 +52,7 @@ estilos.css --> Estilos
 5. Se `pintan` los nodos en la pantalla para que los usuarios vean el contenido de la página web.
 
 ![Notas](https://static.platzi.com/media/user_upload/80-1e1adc16-ba31-4627-9d68-7ad1125285ab.jpg)
+
+## 5 tips para aprender CSS
+
+![5 Tips](https://static.platzi.com/media/user_upload/Infografia-Frontend-Javascript-986d1fea-9f09-4b8e-be0d-6d9f69ac75b8.jpg)
